@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/MyProgram.dir/main.cpp.o CMakeFiles/MyProgram.dir/menu/CMenu.cpp.o CMakeFiles/MyProgram.dir/menu/CMenuItem.cpp.o -o MyProgram 
